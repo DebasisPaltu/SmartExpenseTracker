@@ -67,7 +67,7 @@ AI was used for:
 **Steps:**
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/DebasisPaltu/SmartExpenseTracker>
 cd SmartExpenseTracker
 # 2. Open the project in Android Studio
 # 3. Build & run on emulator or physical device
